@@ -1,5 +1,4 @@
 ﻿master_id,expansion,cn,card_type,sub_type,name,rarity,regulation,is_mirror
-smp_myu_SM-P,-,-,ポケモン,超,ミュウ 古代文字,-,C,False
 smp_001_SM-P,SM-P,001/SM-P,ポケモン,闘,カビゴンGX,-,A,False
 smp_003_SM-P,SM-P,003/SM-P,ポケモン,雷,ピカチュウ,-,A,False
 smp_008_SM-P,SM-P,008/SM-P,ポケモン,雷,ピカチュウ,-,A,False
@@ -184,3 +183,4 @@ smp_401_SM-P,SM-P,401/SM-P,トレーナーズ,サポート,アローラの仲間
 smp_407_SM-P,SM-P,407/SM-P,ポケモン,雷,漫才ごっこピカチュウ,-,C,False
 smp_408_SM-P,SM-P,408/SM-P,ポケモン,悪,サーナイト,-,C,False
 smp_dendo_SM-P,SM-P,SM-P,トレーナーズ,グッズ,殿堂の書,-,A,False
+smp_myu_SM-P,-,-,ポケモン,超,ミュウ 古代文字,-,C,False
