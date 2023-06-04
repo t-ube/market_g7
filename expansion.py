@@ -3,6 +3,7 @@ def getList():
         'SM-P',
         'SMGX',
         'SMTRAIN',
-        'S8a-P'
+        'S8a-P',
+        'XY-P'
     ]
     return expansionList
